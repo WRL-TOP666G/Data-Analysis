@@ -25,8 +25,9 @@ Sample bit strings
 
 ## 5
 1. Interval Arithmetic
-2. Random Slash
-3. Word Processing
+2. Numpy Shapes
+3. Random Slash
+4. Word Processing
 
 ## 6
 1. Chunkify files
@@ -48,9 +49,5 @@ Sample bit strings
 
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
-* [sklearn](https://scikit-learn.org/stable/)
-* [scipy](https://www.scipy.org/)
-* [imageio](https://pypi.org/project/imageio/) 
 * [matplotlib](https://matplotlib.org/) 
-* [seaborn](https://seaborn.pydata.org/)
 
