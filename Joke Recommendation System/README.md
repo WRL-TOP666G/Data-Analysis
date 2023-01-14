@@ -1,4 +1,4 @@
-# ECE-143 Final Project: Joke recommendation system
+# Joke recommendation system
 
 This repository contains the implementation of Team 25's final project: Joke Recommendation System. 
 
